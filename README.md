@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">𝓟𝓪𝓿𝓪𝓷 𝓬𝓱𝓪𝓷𝓭𝓻𝓪 𝓱𝓮𝓻𝓮 !👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79639&center=true&vCenter=true&width=435&lines=Front+End+Developer;check+my+Repositories+to+Know+more+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79639&center=true&vCenter=true&width=435&lines=Front+End+Developer....;Check+my+repositories+to+Know+more+)](https://git.io/typing-svg)
   
 </h1>
 
