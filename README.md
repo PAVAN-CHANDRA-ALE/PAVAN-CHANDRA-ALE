@@ -1,8 +1,3 @@
-<p align="right">
-  <a href="https://wakatime.com/PAVAN-CHANDRA-ALE"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/PAVAN-CHANDRA-ALE"></a>
-</p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">𝓟𝓪𝓿𝓪𝓷 𝓬𝓱𝓪𝓷𝓭𝓻𝓪 𝓱𝓮𝓻𝓮 !👋
 </h1>
 
